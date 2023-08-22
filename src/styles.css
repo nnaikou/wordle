@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+input {
+  background-color: lightgray;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
